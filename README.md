@@ -1,8 +1,9 @@
 # Evidencia de Oscar David Feregrino Hernandez.
-**• Instalación y configuración.
+
+• Instalación y configuración.
 • Uso del programa.
 • Créditos.
-• Licencia.**
+• Licencia.
 
 
-![github_image png](https://user-images.githubusercontent.com/90371923/134786885-76e7df32-bb7c-4ce7-a501-7355047fc2e7.jpg 20 * 20)
+![Universidad_Tecmilenio](https://user-images.githubusercontent.com/90371923/134786950-92d2d765-3375-4b3f-a46e-624836f4458d.png)
