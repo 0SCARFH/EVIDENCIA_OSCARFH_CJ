@@ -4,4 +4,4 @@
 • Créditos.
 • Licencia.**
 
-![github-small](https://www.fimpes.org.mx/images/universidades/tecmil.jpg)
+![](https://www.fimpes.org.mx/images/universidades/tecmil.png 100*20)
